@@ -1,16 +1,16 @@
 <div align="center">
 
 # Fabian Beltran
-### Desarrollador Backend Junior · Java & Spring Boot
+### Desarrollador de Software Junior · En búsqueda de oportunidades
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D1FF&center=true&vCenter=true&width=560&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+MySQL;Construyo+el+lado+que+el+usuario+no+ve...;...pero+que+hace+que+todo+funcione+%F0%9F%9A%80;Clean+Code+%7C+Git+%7C+Siempre+aprendiendo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D1FF&center=true&vCenter=true&width=560&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Python;Construyo+el+lado+que+el+usuario+no+ve...;...pero+que+hace+que+todo+funcione+%F0%9F%9A%80;Clean+Code+%7C+Git+%7C+Siempre+aprendiendo)](https://git.io/typing-svg)
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabian-andres-beltran)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fabian1031.github.io/fabian-beltran-portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-dev)
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.beltranv@outlook.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573107038637)
 
-![Estado](https://img.shields.io/badge/🟢_Disponible_para_trabajar-Bogotá,_Colombia-00d1ff?style=flat-square)
+![Estado](https://img.shields.io/badge/🟢_Disponible_para_trabajar-Remoto_·_Híbrido_·_Presencial-00d1ff?style=flat-square)
 
 </div>
 
@@ -23,7 +23,7 @@ Estudiante de **Ingeniería de Software** en el Politécnico Grancolombiano, con
 Antes de enfocarme en el desarrollo, trabajé en **Soporte IT corporativo**, desplegando aplicaciones en Windows Server e IIS — una base práctica que me da una visión diferente a la de un desarrollador sin experiencia en infraestructura.
 
 - 🎓 Ingeniería de Software · Politécnico Grancolombiano *(Jun 2024 — Actual)*
-- 🚀 Bootcamp Full-Stack Java · Generation Colombia *(Feb 2025 — Actual)*
+- 🚀 Bootcamp Full-Stack Java · Generation Colombia *(Feb 2026 — Jun 2026)*
 - 🔧 Experiencia previa en Soporte IT · Sector corporativo
 - 📍 Bogotá, Colombia
 - ⚡ Dato curioso: depuro mejor con café en mano ☕
@@ -36,11 +36,8 @@ Antes de enfocarme en el desarrollo, trabajé en **Soporte IT corporativo**, des
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Frontend — Conocimiento complementario**
 
@@ -55,8 +52,7 @@ Antes de enfocarme en el desarrollo, trabajé en **Soporte IT corporativo**, des
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
@@ -79,19 +75,20 @@ Antes de enfocarme en el desarrollo, trabajé en **Soporte IT corporativo**, des
 
 ## 🚀 Proyectos Destacados
 
+### Fullstack
+| # | Proyecto | Descripción | Stack | Repositorio | Demo |
+|---|---|---|---|---|---|
+| #001 | **Coroto** | E-commerce fullstack — backend REST con Spring Boot y Java, frontend con HTML, CSS y Vanilla JS. Desplegado en producción. | Java · Spring Boot · JavaScript | [Front](https://github.com/fabian1031/generation-proyecto-final-ecommerce-grupo9) · [Back](https://github.com/fabian1031/coroto-backend) | [coroto.online](https://coroto.online/) |
+
 ### Backend
-| Proyecto | Descripción | Stack | Repositorio |
-|---|---|---|---|
-| **Próximamente #005** | Proyecto backend en desarrollo | Java · Spring Boot · MySQL | 🔧 En progreso |
-| **Próximamente #006** | Proyecto backend en desarrollo | Java · Spring Boot · MySQL | 🔧 En progreso |
+| # | Proyecto | Descripción | Stack | Repositorio |
+|---|---|---|---|---|
+| #002 | **Sistema de Turnos** | Gestión de biblioteca en Java puro — herencia, polimorfismo, encapsulamiento y abstracción. | Java · POO | [Ver código](https://github.com/fabian1031/Sistema-de-Gestion-de-Turnos-) |
 
 ### Frontend
-| Proyecto | Descripción | Stack | Repositorio |
-|---|---|---|---|
-| **Carrito de Compras** | Tienda con carrito interactivo — agrega productos, acumula totales y elimina ítems en tiempo real | JavaScript · Bootstrap | [Ver código](https://github.com/fabian1031/carrito) |
-| **PokeAPI Explorer** | Busca y guarda tus Pokémon favoritos consumiendo la PokeAPI — fetch, JSON y renderizado dinámico | JavaScript · REST API | [Ver código](https://github.com/fabian1031/pokeapi) |
-| **Agencia de Viajes** | Página con modal de descripción, carrito de destinos y suma de precios en tiempo real | JavaScript · Bootstrap | [Ver código](https://github.com/fabian1031/agencia-viajes) |
-| **Conversor de Temperaturas** | Convierte entre Celsius, Kelvin y Fahrenheit con termómetro animado en tiempo real | JavaScript · CSS Animations | [Ver código](https://github.com/fabian1031/conversor-temp) |
+| # | Proyecto | Descripción | Stack | Repositorio | Demo |
+|---|---|---|---|---|---|
+| #003 | **Agencia de Viajes** | Página de viajes con modal de descripción, carrito de destinos y suma de precios en tiempo real. | JavaScript · Bootstrap | [Ver código](https://github.com/fabian1031/tienda-online-interactiva) | [Ver demo](https://tienda-online-interactiva.vercel.app/) |
 
 ---
 
