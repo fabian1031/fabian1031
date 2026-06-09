@@ -100,6 +100,16 @@ Antes de enfocarme en el desarrollo, trabajé en **Soporte IT corporativo**, des
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabian1031/fabian1031/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabian1031/fabian1031/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/fabian1031/fabian1031/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🏆 Trofeos de GitHub
